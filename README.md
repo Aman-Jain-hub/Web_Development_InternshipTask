@@ -1,5 +1,8 @@
 # Web_Development_InternshipTask
- In this web development project, I built two frontend website pages by using HTML, CSS, and Javascript.
+
+Proposed Methodology -
+ 
+            ![image](https://user-images.githubusercontent.com/71064296/123556244-b15b6800-d7a7-11eb-8ed7-e243216d024f.png)
 
 Output_Page_1 -
 
