@@ -2,7 +2,8 @@
 
 Proposed Methodology -
  
-            ![image](https://user-images.githubusercontent.com/71064296/123556273-e071d980-d7a7-11eb-8cc1-449467194488.png)
+            ![image](https://user-images.githubusercontent.com/71064296/123556286-f41d4000-d7a7-11eb-905c-d7809a8e6eb9.png)
+
 
 
 Output_Page_1 -
