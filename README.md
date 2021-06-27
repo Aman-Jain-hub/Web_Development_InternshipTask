@@ -1,10 +1,8 @@
 # Web_Development_InternshipTask
 
 Proposed Methodology -
- 
-            ![image](https://user-images.githubusercontent.com/71064296/123556286-f41d4000-d7a7-11eb-905c-d7809a8e6eb9.png)
 
-
+![image](https://user-images.githubusercontent.com/71064296/123556293-026b5c00-d7a8-11eb-82eb-eb75a619f9cb.png)
 
 Output_Page_1 -
 
